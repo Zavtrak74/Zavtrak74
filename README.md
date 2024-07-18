@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Zavtrak74
 - 👀 I’m interested in Cybersecurity and AI
-- I'm currently learning Linux Kernel
-- 📫 linkedin @yohan74960
+- I'm currently learning how works Linux Kernel
+- Currently Searching for trainee in Cybersecurity or AI
+- 📫 linkedin @yohan74960 https://www.linkedin.com/in/yohan-lamboley-37b43b259/
 
 
 <!---
